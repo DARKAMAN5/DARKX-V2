@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hᴏɪɪ ʙʀᴜʜ.. I'ᴍ 𓆩ɖǟʀӄӼɮօȶ𓆪..ᴀɴ ᴀᴍᴀᴢɪɴɢ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ғᴏʀ ᴍᴀɴᴀɢɪɴɢ ʏᴏᴜʀ ɢʀᴏᴜᴘs..[😉](https://telegra.ph/file/054c0e3b289be0dfdbac7.jpg)
+Hᴏɪɪ ʙʀᴜʜ.. I'ᴍ 𓆩ɖǟʀӄӼɮօȶ𓆪..ᴀɴ ᴀᴍᴀᴢɪɴɢ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ғᴏʀ ᴍᴀɴᴀɢɪɴɢ ʏᴏᴜʀ ɢʀᴏᴜᴘs..[😉](https://te.legra.ph/file/1b975140561e95c0ddb52.jpg)
 
 Jᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs.. ɢɪʙ ᴀᴅᴍɪɴ ᴘᴏᴡᴇʀ ᴀɴᴅ ᴛʜᴇɴ sᴇᴇ..
 
@@ -89,7 +89,7 @@ buttons = [
     [
         InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="yone_"),
         InlineKeyboardButton(
-            text="🤓sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ🤓", url=f"https://t.me/DARKV2SUPPORT"
+            text="🤓sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ🤓", url=f"https://t.me/DARKAMANSUPPORT"
         ),
     ],
     [
@@ -99,10 +99,10 @@ buttons = [
 
 
 HELP_STRINGS = """
-ʜɪʏᴏᴏᴏ.. ɪᴛ's ʏᴏᴜʀ [𓆩ɖǟʀӄӼɮօȶ𓆪](https://telegra.ph/file/054c0e3b289be0dfdbac7.jpg) ʜᴇʀᴇ.
+ʜɪʏᴏᴏᴏ.. ɪᴛ's ʏᴏᴜʀ [𓆩ɖǟʀӄӼɮօȶ𓆪](https://te.legra.ph/file/1b975140561e95c0ddb52.jpg) ʜᴇʀᴇ.
 ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ.."""
 
-𓆩ɖǟʀӄӼɮօȶ𓆪_IMG = "https://telegra.ph/file/054c0e3b289be0dfdbac7.jpg"
+𓆩ɖǟʀӄӼɮօȶ𓆪_IMG = "https://te.legra.ph/file/1b975140561e95c0ddb52.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate! Actually I don't need money..
  You can support us by promoting our bot.. \
