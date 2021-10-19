@@ -84,16 +84,16 @@ Jᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs.. ɢɪʙ ᴀᴅᴍɪ�
 buttons = [
     [
         InlineKeyboardButton(
-            text="👥ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs👥", url="t.me/DARKXV2BOT?startgroup=true"),
+            text="🖱️ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs 🖱️", url="t.me/DARKXV2BOT?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="yone_"),
         InlineKeyboardButton(
-            text="🇮🇳sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ🇮🇳", url=f"https://t.me/DARKAMANSUPPORT"
+            text="🇮🇳 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 🇮🇳", url=f"https://t.me/DARKAMANSUPPORT"
         ),
     ],
     [
-        InlineKeyboardButton(text="❓ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ❓", callback_data="help_back"),
+        InlineKeyboardButton(text="♨️ ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ ♨️", callback_data="help_back"),
     ],
 ]
 
